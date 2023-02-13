@@ -1,0 +1,23 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/opertion.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarinhaDaora/TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarinhaDaora/TDD/issues"
+  },
+  "homepage": "https://github.com/CarinhaDaora/TDD#readme",
+  "dependencies": {
+    "jest": "^29.4.2",
+    "jest-junit": "^15.0.0"
+  }
+}
